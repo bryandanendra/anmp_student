@@ -19,6 +19,6 @@ class StudentListFragment : Fragment() {
         binding = FragmentStudentListBinding.inflate(inflater,container,false)
         return binding.root
     }
-//    🐛
+//    bugfix
     
 }
